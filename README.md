@@ -1,25 +1,28 @@
-# Olá, Bem vindo ao meu projeto de portfólio.
+# Projeto jogo da Velha
 
-Este é um simples jogo de adivinhação onde o jogador tenta adivinhar um número secreto gerado aleatoriamente. 
-O jogo fornece dicas sobre se o número secreto é maior ou menor do que o número escolhido pelo jogador. 
-O objetivo é acertar o número com o menor número de tentativas possível.
+Este é um simples jogo da velha interativo desenvolvido com HTML, CSS e JavaScript, focando em lógica de programação e uma experiência de usuário divertida.
 
-![image](https://github.com/user-attachments/assets/bc837e84-f472-4cb6-88f5-7ce8566b4189)
-
+![image](https://github.com/user-attachments/assets/e5782341-5fc4-4003-a705-73763eea60e1)
 
 ## Funcionalidades
 
-* Número secreto: Um número aleatório é gerado entre 1 e 10.
+* Interface Simples e Intuitiva: Fácil de entender e jogar.
 
-* Tentativas: O jogo conta o número de tentativas até o jogador acertar.
+* Detecção de Vitória e Empate: O jogo verifica automaticamente quem venceu ou se houve um empate.
 
-* Feedback: Após cada tentativa, o jogador é informado se o número secreto é maior ou menor do que o chute atual.
+* Reinício de Partida: Opção para jogar novamente sem recarregar a página.
 
-* Reiniciar: Após acertar o número, o jogador pode reiniciar o jogo com um novo número secreto.
+## Objetivo
 
-## Ferramentas utilizadas:
+- O objetivo do jogo é conseguir três marcas iguais em uma linha horizontal, vertical ou diagonal antes do adversário.
 
-* JavaScript: Lógica do jogo, manipulação do DOM e integração com a API de voz.
+## Tecnologias
+
+* HTML: estrutura do jogo.
+
+* CSS: estilização e layout responsivo.
+
+* JavaScript: lógica do jogo e interação com o usuário.
 
 
 ## Feito por:
